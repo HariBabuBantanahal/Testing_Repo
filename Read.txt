@@ -1,0 +1,9 @@
+1. Working directory
+Untracked files is call it working directory 
+
+
+2.Staging part
+
+3.local repo
+
+4.Remote repository
